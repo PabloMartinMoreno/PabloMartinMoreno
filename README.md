@@ -7,7 +7,7 @@
 <br>
 
 $$
-\huge\text{Amante del pensamiento critico, la lógíca y la ciencia.}
+\huge\text{Lógica y racionalidad ante todo.}
 $$
 
 <br>
