@@ -7,7 +7,7 @@
 <br>
 
 $$
-\huge\text{Lógica y racionalidad ante todo.}
+\huge\text{El futuro es apasionante}
 $$
 
 <br>
