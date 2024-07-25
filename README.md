@@ -2,9 +2,6 @@
     <p align="center">
         <img src="https://github.com/PabloMartinMoreno/PabloMartinMoreno/blob/main/Banner%20ENG.png?raw=true" alt="Banner (oscuro)" />
     </p>
-    <p align="left">
-        <a href="/languages/README-en.md">English<a> · <b>Español</b>
-    </p>
 </div>
 
 <br>
@@ -15,7 +12,7 @@ $$
 
 <br>
 
-Hola, soy **Pablo Moreno**, futuro ingeniero en informática, me especializo en la ciberseguridad. 
+Hola, soy **Pablo Moreno**, futuro ingeniero en informática con especialización en ciberseguridad. 
 
 **Actualmente**, me encuentro estudiando para obtener el **OSCP**, siendo mi objetivo durante este período aprender y mejorar todo lo que pueda.
 
