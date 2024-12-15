@@ -1,4 +1,4 @@
-<div>
+ffmpeg -i input.mkv -ss 00:01:00 -to 00:02:30 -c copy output.mkv<div>
     <p align="center">
         <img src="https://github.com/PabloMartinMoreno/PabloMartinMoreno/blob/main/Banner%20ENG.png?raw=true" alt="Banner (oscuro)" />
     </p>
@@ -29,7 +29,7 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
             <th></th>
             <th>✅<br>Experimentado</th>
             <th>🔁<br>Experimentando</th>
-            <th>🆕<br>Experimentar</th>
+            <th>🆕<br>Por experimentar</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -51,10 +51,11 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
                 <img src="https://img.shields.io/badge/Metasploit-%232596CD.svg?style=flat&logo=metasploit&logoColor=white" alt="Metasploit">
                 <br>
                 <img src="https://img.shields.io/badge/OWASP%20ZAP-%2300549E.svg?style=flat&logo=zap&logoColor=white" alt="OWASP">
+                <img src="https://img.shields.io/badge/John%20The%20Ripper-%23BA1515.svg?style=flat&logo=john-the-ripper&logoColor=black" alt="John The Ripper">
+                <br>
+                <img src="https://img.shields.io/badge/Hashcat-%233E3E41.svg?style=flat&logo=hashcat&logoColor=white" alt="Hashcat">
             </td>
             <td>
-                <img src="https://img.shields.io/badge/John%20The%20Ripper-%23BA1515.svg?style=flat&logo=john-the-ripper&logoColor=black" alt="John The Ripper">
-                <img src="https://img.shields.io/badge/Hashcat-%233E3E41.svg?style=flat&logo=hashcat&logoColor=white" alt="Hashcat">
             </td>
         </tr>
         <tr>
