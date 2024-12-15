@@ -1,4 +1,4 @@
-ffmpeg -i input.mkv -ss 00:01:00 -to 00:02:30 -c copy output.mkv<div>
+<div>
     <p align="center">
         <img src="https://github.com/PabloMartinMoreno/PabloMartinMoreno/blob/main/Banner%20ENG.png?raw=true" alt="Banner (oscuro)" />
     </p>
