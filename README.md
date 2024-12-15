@@ -40,7 +40,9 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
             </td>
             <td>
             </td>
-            <td></td>
+            <td>
+                <img src="https://img.shields.io/badge/OPNSense-%23D94F00.svg?style=flat&logo=opnsense&logoColor=white" alt="OPNSense">
+            </td>
         </tr>
         <tr>
             <td align="left">🔴 Red Team</td>
@@ -53,6 +55,8 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
                 <br>
                 <img src="https://img.shields.io/badge/John%20The%20Ripper-%23BA1515.svg?style=flat&logo=john-the-ripper&logoColor=black" alt="John The Ripper">
                 <img src="https://img.shields.io/badge/Hashcat-%233E3E41.svg?style=flat&logo=hashcat&logoColor=white" alt="Hashcat">
+                <br>
+                <img src="https://img.shields.io/badge/Hydra-%23168F78.svg?style=flat&logo=hydra&logoColor=white" alt="Hydra">
             </td>
             <td>
             </td>
@@ -89,7 +93,7 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             <th></th>
             <th>✅<br>Experimentado</th>
             <th>🔁<br>Experimentando</th>
-            <th>🆕<br>Experimentar</th>
+            <th>🆕<br>Por experimentar</th>
         </tr>
     </thead>
     <tbody align="center">
