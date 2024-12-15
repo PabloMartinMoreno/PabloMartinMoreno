@@ -35,9 +35,10 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
     <tbody align="center">
         <tr>
             <td align="left">⚪ General</td>
-            <td></td>
             <td>
                 <img src="https://img.shields.io/badge/WireShark-%231679A7.svg?style=flat&logo=wireshark&logoColor=white" alt="WireShark">
+            </td>
+            <td>
             </td>
             <td></td>
         </tr>
