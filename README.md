@@ -185,7 +185,6 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
                 <img src="https://img.shields.io/badge/Latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="LaTeX">
             </td>
         </tr>
-        <!--
         <tr>
             <td align="left">Web</td>
             <td>
@@ -199,9 +198,10 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
         </tr>
         <tr>
             <td align="left">VPN</td>
-            <td></td>
             <td>
                 <img src="https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=flat&logo=openvpn&logoColor=white" alt="OpenVPN">
+            </td>
+            <td>
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white" alt="Wireguard">
@@ -211,13 +211,9 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             <td align="left"><i>Otros</i></td>
             <td></td>
             <td>
-                <img src="https://img.shields.io/badge/Gimp-%235C5543.svg?style=flat&logo=gimp&logoColor=white" alt="Gimp">
-                <img src="https://img.shields.io/badge/Warp-%2301A4FF.svg?style=flat&logo=warp&logoColor=white" alt="Warp">
+                <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white" alt="Neovim">
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Inkscape-%23000000.svg?style=flat&logo=inkscape&logoColor=white" alt="Inkscape">
-                <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white" alt="Neovim">
-                <br>
                 <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
             </td>
         </tr>
