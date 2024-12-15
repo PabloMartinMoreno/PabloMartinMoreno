@@ -218,6 +218,5 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
                 <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
             </td>
         </tr>
-        -->
     </tbody>
 </table>
