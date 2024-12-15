@@ -140,9 +140,10 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             <td>
                 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
                 <img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox">
+                <br>
+                <img src="https://img.shields.io/badge/VMware-%23607078.svg?style=flat&logo=vmware&logoColor=white" alt="VMware">
             </td>
             <td>
-                <img src="https://img.shields.io/badge/VMware-%23607078.svg?style=flat&logo=vmware&logoColor=white" alt="VMware">
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
@@ -153,9 +154,10 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             <td>
                 <img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=flat&logo=debian&logoColor=white" alt="Debian">
                 <img src="https://img.shields.io/badge/Kali%20Linux-%23080636.svg?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux">
+                <br>
+                <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Kali%20Purple-%23AE078C.svg?style=flat&logo=kali-linux&logoColor=white" alt="Kali Purple">
