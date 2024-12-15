@@ -209,9 +209,10 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
         </tr>
         <tr>
             <td align="left"><i>Otros</i></td>
-            <td></td>
             <td>
                 <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white" alt="Neovim">
+            </td>
+            <td>
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
