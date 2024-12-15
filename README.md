@@ -7,7 +7,7 @@
 <br>
 
 $$
-\huge\text{El futuro es apasionante}
+\huge\text{In Math We Trust}
 $$
 
 <br>
