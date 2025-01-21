@@ -120,9 +120,6 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             <td>
                 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
                 <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-                <br>
-                <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" alt="Redis">
-                <img src="https://img.shields.io/badge/SurrealDB-%23FF00A0.svg?style=flat&logo=surrealdb&logoColor=white" alt="SurrealDB">
             </td>
         </tr>
         <tr>
@@ -131,8 +128,6 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
                 <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django">
                 <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
             <td></td>
-            <td>
-                <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="Flask"></td>
             </tr>
         </tr>
         <tr>
