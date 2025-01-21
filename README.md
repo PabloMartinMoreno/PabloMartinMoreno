@@ -57,6 +57,9 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
                 <img src="https://img.shields.io/badge/Hashcat-%233E3E41.svg?style=flat&logo=hashcat&logoColor=white" alt="Hashcat">
                 <br>
                 <img src="https://img.shields.io/badge/Hydra-%23168F78.svg?style=flat&logo=hydra&logoColor=white" alt="Hydra">
+                <img src="https://img.shields.io/badge/Nikto-%23CC0000.svg?style=flat&logo=nikto&logoColor=white" alt="Nikto">
+                <img src="https://img.shields.io/badge/Aircrack--ng-%23000000.svg?style=flat&logo=aircrack-ng&logoColor=white" alt="Aircrack-ng">
+                <img src="https://img.shields.io/badge/Tcpdump-%2300834D.svg?style=flat&logo=tcpdump&logoColor=white" alt="Tcpdump">
             </td>
             <td>
             </td>
@@ -127,8 +130,10 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             <td>            
                 <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django">
                 <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+            </td>
             <td></td>
-            </tr>
+            <td>
+            </td>
         </tr>
         <tr>
             <td align="left">📦 Virtualización</td>
@@ -142,6 +147,7 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             </td>
             <td>
             </td>
+        </tr>
         <tr>
             <td align="left">🧠 Sistemas operativos</td>
             <td>
@@ -163,7 +169,7 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             </td>
             <td></td>
             <td>
-            </tr>
+            </td>
         </tr>
         <tr>
             <td align="left">📜 Documentación</td>
@@ -194,20 +200,4 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             </td>
             <td>
             </td>
-            <td>
-                <img src="https://img.shields.io/badge/Wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white" alt="Wireguard">
-            </td>
-        </tr>
-        <tr>
-            <td align="left"><i>Otros</i></td>
-            <td>
-                <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white" alt="Neovim">
-            </td>
-            <td>
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
-            </td>
-        </tr>
-    </tbody>
-</table>
+           
