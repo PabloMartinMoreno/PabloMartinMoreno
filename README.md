@@ -141,8 +141,6 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             <td>
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
-                <img src="https://img.shields.io/badge/Vagrant-%231868F2.svg?style=flat&logo=vagrant&logoColor=white" alt="Vagrant">
             </td>
         <tr>
             <td align="left">🧠 Sistemas operativos</td>
@@ -155,7 +153,6 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             <td>
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Kali%20Purple-%23AE078C.svg?style=flat&logo=kali-linux&logoColor=white" alt="Kali Purple">
             </td>
         </tr>
         <tr>
@@ -166,7 +163,6 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             </td>
             <td></td>
             <td>
-                <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions">
             </tr>
         </tr>
         <tr>
