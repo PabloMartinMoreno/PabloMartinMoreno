@@ -51,7 +51,7 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
                 <img src="https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite">
                 <br>
                 <img src="https://img.shields.io/badge/Metasploit-%232596CD.svg?style=flat&logo=metasploit&logoColor=white" alt="Metasploit">
-                <img src="https://img.shields.io/badge/OWASP%20ZAP-%2300549E.svg?style=flat&logo=zap&logoColor=white" alt="OWASP">
+                <img src="https://img.shields.io/badge/OWASP%20TOP%2010-%2300549E.svg?style=flat&logo=zap&logoColor=white" alt="OWASP">
                 <br>
                 <img src="https://img.shields.io/badge/John%20The%20Ripper-%23BA1515.svg?style=flat&logo=john-the-ripper&logoColor=black" alt="John The Ripper">
                 <img src="https://img.shields.io/badge/Hashcat-%233E3E41.svg?style=flat&logo=hashcat&logoColor=white" alt="Hashcat">
