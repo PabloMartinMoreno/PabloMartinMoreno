@@ -14,8 +14,6 @@ $$
 
 Hola, soy **Pablo Moreno**, me especializo en el pentesting, doy clases de Linux y ciberseguridad de forma particular.
 
-**Actualmente**, me encuentro estudiando para obtener el **OSCP**, siendo mi objetivo durante este período aprender y mejorar todo lo que pueda.
-
 > [!NOTE]  
 > Puedes contactar conmigo a través de mi [Linkedin](https://www.linkedin.com/in/morenopablomartin/)
 
